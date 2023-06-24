@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.gabrielchong.flutterdemo",
+            "sha256_cert_fingerprints": [
+                "1B:60:E9:89:51:9A:F1:92:E3:D2:63:86:C5:D2:21:67:5F:E5:2A:49:39:37:30:7D:0D:30:35:F1:49:06:9C:32"
+            ]
+        }
+    }
+]
