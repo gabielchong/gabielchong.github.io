@@ -5,10 +5,22 @@
         ],
         "target": {
             "namespace": "android_app",
-            "package_name": "com.gabrielchong.flutterdemo",
+            "package_name": "com.gabrielchong.flutterdemo.debug",
             "sha256_cert_fingerprints": [
                 "1B:60:E9:89:51:9A:F1:92:E3:D2:63:86:C5:D2:21:67:5F:E5:2A:49:39:37:30:7D:0D:30:35:F1:49:06:9C:32"
             ]
         }
-    }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.gabrielchong.flutterdemo",
+            "sha256_cert_fingerprints": [
+                "4E:69:D3:5B:64:64:0A:35:B6:A0:84:83:8C:FC:B6:96:9E:B5:61:F3:8D:E6:11:00:DC:A9:38:7C:83:46:61:8E"
+            ]
+        }
+    },    
 ]
