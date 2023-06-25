@@ -1,10 +1,11 @@
 {
-    "applinks": {
-        "apps": [],
-        "details": {
-            "S6XGW7ZCB6.com.gabrielchong.flutterdemo": {
-                "paths": ["/??"]
-            }
-        }
-    }
+  "applinks": {
+      "apps": [],
+      "details": [
+      {
+        "appID": "S6XGW7ZCB6.com.gabrielchong.flutterdemo",
+        "paths": ["*"]
+      }
+    ]
+  }
 }
